@@ -1,2 +1,2 @@
 # ComfyUI-path-util
-Text file utility for ComfyUI
+Path utility for ComfyUI
