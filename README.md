@@ -1,2 +1,2 @@
-# ComfyUI_demucus
-demucus for ComfyUI
+# ComfyUI-path-util
+Text file utility for ComfyUI
